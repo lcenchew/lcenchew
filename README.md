@@ -1,4 +1,10 @@
-### Hi there 👋
+### Curious about ...
+
+😺 (in no particular order): Google Apps Scripts, Python automation, machine learning and trading, security and compliance, AWS, startup, passive income, Visual Studio Code, development container, future of work, JAMStack,
+
+... surprising all of them can be found here on Github!
+
+>  Curiosity killed a cat; but it came back as Octocat :octocat: .
 
 <!--
 **lcenchew/lcenchew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
